@@ -12,7 +12,7 @@
 
             <!-- Header -->
             <Border Background="DarkOrange" CornerRadius="10" Padding="15" Margin="0,0,0,20">
-                <TextBlock Text="🍔 Welcome Food" 
+                <TextBlock Text="🍔 Welcome Food Pos" 
                           Foreground="White" 
                           FontSize="24" 
                           FontWeight="Bold"
@@ -31,7 +31,7 @@
             <TextBox x:Name="txtUsername" 
                     Height="40"
                     BorderThickness="0,0,0,2"
-                    BorderBrush="#2196F3"
+                    BorderBrush="Orange"
                     Padding="10"
                     FontSize="14"
                     Background="Transparent"/>
@@ -41,7 +41,7 @@
             <PasswordBox x:Name="txtPassword" 
                         Height="40"
                         BorderThickness="0,0,0,2"
-                        BorderBrush="#2196F3"
+                        BorderBrush="Orange"
                         Padding="10"
                         FontSize="14"
                         Background="Transparent"/>
