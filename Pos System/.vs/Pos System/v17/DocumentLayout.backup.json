@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\KushanDev\\Documents\\GitHub\\POS\\Pos System\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A326D5CF-3DF6-4BD3-9ACC-ACAEF564AE9D}|Pos System\\Pos System.csproj|c:\\users\\kushandev\\documents\\github\\pos\\pos system\\pos system\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A326D5CF-3DF6-4BD3-9ACC-ACAEF564AE9D}|Pos System\\Pos System.csproj|solutionrelative:pos system\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A326D5CF-3DF6-4BD3-9ACC-ACAEF564AE9D}|Pos System\\Pos System.csproj|C:\\Users\\KushanDev\\Documents\\GitHub\\POS\\Pos System\\pos system\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A326D5CF-3DF6-4BD3-9ACC-ACAEF564AE9D}|Pos System\\Pos System.csproj|solutionrelative:pos system\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A326D5CF-3DF6-4BD3-9ACC-ACAEF564AE9D}|Pos System\\Pos System.csproj|c:\\users\\kushandev\\documents\\github\\pos\\pos system\\pos system\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A326D5CF-3DF6-4BD3-9ACC-ACAEF564AE9D}|Pos System\\Pos System.csproj|solutionrelative:pos system\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A326D5CF-3DF6-4BD3-9ACC-ACAEF564AE9D}|Pos System\\Pos System.csproj|c:\\users\\kushandev\\documents\\github\\pos\\pos system\\pos system\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{A326D5CF-3DF6-4BD3-9ACC-ACAEF564AE9D}|Pos System\\Pos System.csproj|C:\\Users\\KushanDev\\Documents\\GitHub\\POS\\Pos System\\pos system\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{A326D5CF-3DF6-4BD3-9ACC-ACAEF564AE9D}|Pos System\\Pos System.csproj|solutionrelative:pos system\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A326D5CF-3DF6-4BD3-9ACC-ACAEF564AE9D}|Pos System\\Pos System.csproj|c:\\users\\kushandev\\documents\\github\\pos\\pos system\\pos system\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A326D5CF-3DF6-4BD3-9ACC-ACAEF564AE9D}|Pos System\\Pos System.csproj|solutionrelative:pos system\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A326D5CF-3DF6-4BD3-9ACC-ACAEF564AE9D}|Pos System\\Pos System.csproj|C:\\Users\\KushanDev\\Documents\\GitHub\\POS\\Pos System\\pos system\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,15 +30,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataBaseConnection.cs",
+              "DocumentMoniker": "C:\\Users\\KushanDev\\Documents\\GitHub\\POS\\Pos System\\Pos System\\DataBaseConnection.cs",
+              "RelativeDocumentMoniker": "Pos System\\DataBaseConnection.cs",
+              "ToolTip": "C:\\Users\\KushanDev\\Documents\\GitHub\\POS\\Pos System\\Pos System\\DataBaseConnection.cs",
+              "RelativeToolTip": "Pos System\\DataBaseConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T12:26:10.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\KushanDev\\Documents\\GitHub\\POS\\Pos System\\Pos System\\App.xaml",
               "RelativeDocumentMoniker": "Pos System\\App.xaml",
@@ -46,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\KushanDev\\Documents\\GitHub\\POS\\Pos System\\Pos System\\App.config",
               "RelativeDocumentMoniker": "Pos System\\App.config",
@@ -54,12 +75,11 @@
               "RelativeToolTip": "Pos System\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-10-02T11:22:44.616Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-02T11:22:44.616Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\KushanDev\\Documents\\GitHub\\POS\\Pos System\\Pos System\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Pos System\\MainWindow.xaml",
@@ -71,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\KushanDev\\Documents\\GitHub\\POS\\Pos System\\Pos System\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Pos System\\MainWindow.xaml.cs",
@@ -79,8 +99,7 @@
               "RelativeToolTip": "Pos System\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T11:20:03.106Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-02T11:20:03.106Z"
             }
           ]
         }
